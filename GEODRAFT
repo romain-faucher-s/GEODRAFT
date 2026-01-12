@@ -1,0 +1,15 @@
+
+geo-draft-framework/
+├── index.html              # Landing page marketing
+├── style.css               # Styles simples
+├── README.md               # Présentation GitHub
+│
+├── docs/                   # Documentation (GitHub Pages)
+│   ├── index.md             # Accueil documentation
+│   ├── framework.md         # GEO-DRAFT expliqué
+│   ├── prompts.md           # Templates de prompts
+│   ├── workflows.md         # Process SIG (QGIS / PostGIS)
+│   ├── cas-usages.md        # DDT / DREAL / collectivités
+│   └── checklist.md         # Checklist métier SIG
+│
+└── _config.yml              # Configuration GitHub Pages
